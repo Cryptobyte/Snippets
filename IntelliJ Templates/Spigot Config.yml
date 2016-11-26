@@ -1,0 +1,6 @@
+name: ${PROJECT_NAME}
+version: 0.0.1
+description: ${PROJECT_NAME}
+author: ${USER}
+website: Unknown
+main: ${PACKAGE_NAME}.${PROJECT_NAME}
